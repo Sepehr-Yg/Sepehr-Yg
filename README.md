@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sepehr 👋
 
-<!--
-**Sepehr-Yg/Sepehr-Yg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Graduate
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Analysis
+- Python
+- Algorithms
+- Artificial Intelligence
+
+## Currently Learning
+
+- Python
+- SQL
+- Data Analysis
+
+## Goals
+
+- Build Data Analysis Projects
+- Publish Technical Articles
+- Prepare for Research Opportunities
