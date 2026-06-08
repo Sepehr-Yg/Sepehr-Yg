@@ -1,22 +1,31 @@
 # Hi, I'm Sepehr 👋
 
-Computer Science Graduate
-
-## Interests
-
-- Data Analysis
-- Python
-- Algorithms
-- Artificial Intelligence
+Computer Science Graduate passionate about technology, algorithms, and data.
 
 ## Currently Learning
 
-- Python
-- SQL
-- Data Analysis
+* Python
+* SQL
+* Data Analysis
+* Data Structures & Algorithms
+
+## Interests
+
+* Artificial Intelligence
+* Data Science
+* Research
+* Software Development
+
+## Current Projects
+
+* Algorithm implementations in Python
+* Technical writing on Medium
+* Data Analysis learning projects
 
 ## Goals
 
-- Build Data Analysis Projects
-- Publish Technical Articles
-- Prepare for Research Opportunities
+* Build strong technical foundations
+* Contribute to open-source projects
+* Prepare for future research opportunities
+
+📫 Feel free to connect with me through LinkedIn and Medium.
